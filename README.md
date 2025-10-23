@@ -59,6 +59,10 @@ Developed an **AI & IoT solution** for intelligent rainwater management, transfo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 📐 CAD & 3D Design
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA_V5-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 📡 Electronics & PCB Design
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-5588FF?style=for-the-badge&logo=easyeda&logoColor=white)
