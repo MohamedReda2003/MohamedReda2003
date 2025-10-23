@@ -43,11 +43,6 @@ Developed an **AI & IoT solution** for intelligent rainwater management, transfo
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Web Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ### 🤖 Embedded Systems & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
@@ -68,6 +63,12 @@ Developed an **AI & IoT solution** for intelligent rainwater management, transfo
 ### 📡 Electronics & PCB Design
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-5588FF?style=for-the-badge&logo=easyeda&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1C79B8?style=for-the-badge&logo=proteus&logoColor=white)
+
+### 🌐 Web Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ## 📊 GitHub Statistics
 
