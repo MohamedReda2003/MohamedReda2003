@@ -18,20 +18,33 @@ I'm a passionate **Mechatronics Engineering Student** at ENSA Tétouan, Morocco,
 - 🌱 I'm exploring **AI, IoT, and Smart Systems**
 - 🤖 I'm working on **Robotics and Embedded Systems** projects
 - ♟️ Chess enthusiast and club developer
-- 🏆 **3rd Place Winner** at AI2SD 2025 Hackathon - Smart Cities (Tangier)
+- 🥇 **1st Place Winner** at Capgemini Engineering Innovathon — Autonomous Vehicles Track
+- 🥉 **3rd Place Winner** at AI2SD 2025 Hackathon — Smart Cities Track (Tangier)
 - 💼 Open to internships and collaboration opportunities
 
-## 🏆 Notable Achievement
+---
+
+## 🏆 Notable Achievements
 
 <div align="center">
 
-### 🥉 3rd Place - AI2SD 2025 Hackathon (Smart Cities)
+### 🥇 1st Place — Capgemini Engineering Innovathon
+
+**Project AURA** | Autonomous Vehicles Track · Capgemini Engineering, Morocco
+
+Built **AURA**, an AI-powered autonomous driving agent using a Mixture-of-Experts neural architecture, trained and validated in the CARLA urban driving simulator.
+
+---
+
+### 🥉 3rd Place — AI2SD 2025 Hackathon (Smart Cities)
 
 **Team Aman Rain** | Morocco's Largest Hackathon under the High Patronage of His Majesty King Mohammed VI
 
 Developed an **AI & IoT solution** for intelligent rainwater management, transforming urban flooding into sustainable resources for greener, more resilient cities.
 
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -46,18 +59,11 @@ Developed an **AI & IoT solution** for intelligent rainwater management, transfo
 ### 🤖 Embedded Systems & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-### 🔧 Engineering & Design Tools
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Engineering & Simulation Tools
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logoColor=white)
 
 ### 📐 CAD & 3D Design
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
@@ -65,14 +71,20 @@ Developed an **AI & IoT solution** for intelligent rainwater management, transfo
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 📡 Electronics & PCB Design
-![EasyEDA](https://img.shields.io/badge/EasyEDA-5588FF?style=for-the-badge&logo=easyeda&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1C79B8?style=for-the-badge&logo=proteus&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-5588FF?style=for-the-badge&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B8?style=for-the-badge&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🌐 Web Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
 
 ## 📊 GitHub Statistics
 
@@ -86,6 +98,8 @@ Developed an **AI & IoT solution** for intelligent rainwater management, transfo
 
 </div>
 
+---
+
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -98,6 +112,8 @@ Developed an **AI & IoT solution** for intelligent rainwater management, transfo
 
 </div>
 
+---
+
 ## 🎓 Notable Personal Projects
 
 ### 🦾 6-DOF Robotic Arm with Mobile Chassis
@@ -105,6 +121,8 @@ Developed a 6-axis robotic arm mounted on a mobile chassis, controlled by an ESP
 
 ### ♟️ Chess Players Rating System
 Built a complete web application using Django for the ENSATÉ Chess Club, inspired by the ELO rating system. The platform records OTB (Over-The-Board) games to automatically update player rankings, offers online play capabilities, includes a chess book library, and features an interactive leaderboard to foster competition, learning, and member engagement.
+
+---
 
 ## 📫 Let's Connect!
 
