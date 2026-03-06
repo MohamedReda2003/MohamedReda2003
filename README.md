@@ -149,6 +149,6 @@ Built a complete web application using Django for the ENSATÉ Chess Club, inspir
 
 **✨ Open to collaboration and exciting opportunities! ✨**
 
-![Snake animation](https://raw.githubusercontent.com/MohamedReda2003/MohamedReda2003/output/github-contribution-grid-snake.svg)
+![Wave animation](https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=footer)
 
 </div>
