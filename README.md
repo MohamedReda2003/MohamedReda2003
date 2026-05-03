@@ -15,27 +15,17 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class MohamedRedaZhar:
-    def __init__(self):
-        self.name         = "Mohamed Reda Zhar"
-        self.role         = "Mechatronics Engineering Student"
-        self.school       = "ENSA Tétouan, Morocco"
-        self.focus        = ["Robotics", "IoT", "AI", "Embedded Systems", "Full Stack Dev"]
-        self.achievements = [
-            "🥇 1st Place — Capgemini Engineering Innovathon (Autonomous Vehicles)",
-            "🥉 3rd Place — AI2SD 2025 Hackathon, Smart Cities Track (Tangier)"
-        ]
-        self.hobbies      = ["♟️ Chess", "🤖 Building robots", "📐 3D modeling"]
-        self.motto        = "Build things that matter."
+Hey! I'm **Mohamed Reda**, a Mechatronics Engineering student at **ENSA Tétouan, Morocco**, passionate about building things that sit at the intersection of hardware and software — robots, intelligent systems, and everything in between.
 
-    def currently(self):
-        return {
-            "learning" : "AI, Control Systems & Smart Robotics",
-            "building" : "Robotics & embedded systems projects",
-            "open_to"  : "Internships & collaboration"
-        }
-```
+I got into engineering because I've always been fascinated by how physical machines can be made *smart*. That curiosity has led me through robotics, embedded systems, IoT, and AI — and I genuinely enjoy working on all of them. Whether it's programming a microcontroller, designing a 3D part in CATIA, or building a full-stack web app, I like seeing ideas come to life.
+
+Outside of engineering, I'm a **chess enthusiast** — enough so that I built a full rating system for my university's chess club. I believe chess and engineering share the same mindset: think ahead, iterate, and never stop improving.
+
+I've had the chance to compete in national hackathons and innovathons, winning **1st place at Capgemini's Innovathon** and **3rd place at AI2SD 2025**, which confirmed that I thrive under pressure and love solving real-world problems with technology.
+
+Currently, I'm deepening my knowledge in **AI, control systems, and smart robotics**, and I'm actively looking for **internship opportunities and collaborations** where I can contribute and keep growing.
+
+> *"Build things that matter."*
 
 ---
 
@@ -77,6 +67,16 @@ class MohamedRedaZhar:
 </details>
 
 <details>
+<summary><b>📡 Electronics & PCB Design</b></summary>
+<br/>
+
+![EasyEDA](https://img.shields.io/badge/EasyEDA-5588FF?style=for-the-badge&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B8?style=for-the-badge&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+
+</details>
+
+<details>
 <summary><b>🤖 Embedded Systems & IoT</b></summary>
 <br/>
 
@@ -87,14 +87,21 @@ class MohamedRedaZhar:
 </details>
 
 <details>
-<summary><b>📐 CAD & Engineering Simulation</b></summary>
+<summary><b>🎛️ Control Theory & Simulation</b></summary>
+<br/>
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📐 CAD & 3D Design</b></summary>
 <br/>
 
 ![CATIA](https://img.shields.io/badge/CATIA_V5-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -105,15 +112,6 @@ class MohamedRedaZhar:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📡 Electronics & PCB Design</b></summary>
-<br/>
-
-![EasyEDA](https://img.shields.io/badge/EasyEDA-5588FF?style=for-the-badge&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1C79B8?style=for-the-badge&logoColor=white)
 
 </details>
 
