@@ -130,17 +130,25 @@ Currently, I'm deepening my knowledge in **AI, control systems, and smart roboti
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  https://github.com/MohamedReda2003/cars-and-faces-recognition
+    https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=cars-and-faces-recognition&theme=tokyonight&hide_border=true
+  </a>
+  https://github.com/MohamedReda2003/E-commerce-simple-website-with-Django
+    https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=E-commerce-simple-website-with-Django&theme=tokyonight&hide_border=true
+  </a>
+</p>
 
-[![Car & Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=cars-and-faces-recognition&theme=tokyonight&hide_border=true)](https://github.com/MohamedReda2003/cars-and-faces-recognition)
-[![E-commerce Django](https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=E-commerce-simple-website-with-Django&theme=tokyonight&hide_border=true)](https://github.com/MohamedReda2003/E-commerce-simple-website-with-Django)
-[![Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=Telegram-Bot-to-check-ENSA-Grades&theme=tokyonight&hide_border=true)](https://github.com/MohamedReda2003/Telegram-Bot-to-check-ENSA-Grades)
-[![Team Draw API](https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=Team-Draw-API&theme=tokyonight&hide_border=true)](https://github.com/MohamedReda2003/Team-Draw-API)
-
-</div>
-
+<p align="center">
+  https://github.com/MohamedReda2003/Telegram-Bot-to-check-ENSA-Grades
+    https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=Telegram-Bot-to-check-ENSA-Grades&theme=tokyonight&hide_border=true
+  </a>
+  https://github.com/MohamedReda2003/Team-Draw-API
+    https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=Team-Draw-API&theme=tokyonight&hide_border=true
+  </a>
+</p>
 ---
 
 ## 🦾 Notable Personal Projects
