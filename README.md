@@ -136,9 +136,9 @@ Currently, I'm deepening my knowledge in **AI, control systems, and smart roboti
 
 <table>
 <tr>
-<a href = "https://github.com/MohamedReda2003/cars-and-faces-recognition">
-<td width="50%" valign="top" align="center">
 
+<td width="50%" valign="top" align="center">
+<a href = "https://github.com/MohamedReda2003/cars-and-faces-recognition">
 
 ### 🤖 AI Recognition System
 
@@ -146,9 +146,9 @@ Vehicle and face detection using Computer Vision and Deep Learning.
 
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
-
-</td>
 </a>
+</td>
+
 <td width="50%" valign="top" align="center">
 
 https://github.com/MohamedReda2003/E-commerce-simple-website-with-Django
