@@ -141,7 +141,7 @@ Currently, I'm deepening my knowledge in **AI, control systems, and smart roboti
 <a href = "https://github.com/MohamedReda2003/cars-and-faces-recognition">
 
 ### 🤖 AI Recognition System
-
+</a>
 Vehicle and face detection using Computer Vision and Deep Learning.
 
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -153,7 +153,7 @@ https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoC
 
 https://github.com/MohamedReda2003/E-commerce-simple-website-with-Django
   https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=E-commerce-simple-website-with-Django&theme=tokyonight&hide_border=true
-</a>
+
 
 ### 🛒 E-Commerce Platform
 
