@@ -132,23 +132,71 @@ Currently, I'm deepening my knowledge in **AI, control systems, and smart roboti
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  https://github.com/MohamedReda2003/cars-and-faces-recognition
-    https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=cars-and-faces-recognition&theme=tokyonight&hide_border=true
-  </a>
-  https://github.com/MohamedReda2003/E-commerce-simple-website-with-Django
-    https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=E-commerce-simple-website-with-Django&theme=tokyonight&hide_border=true
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  https://github.com/MohamedReda2003/Telegram-Bot-to-check-ENSA-Grades
-    https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=Telegram-Bot-to-check-ENSA-Grades&theme=tokyonight&hide_border=true
-  </a>
-  https://github.com/MohamedReda2003/Team-Draw-API
-    https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=Team-Draw-API&theme=tokyonight&hide_border=true
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+https://github.com/MohamedReda2003/cars-and-faces-recognition
+https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=cars-and-faces-recognition&theme=tokyonight&hide_border=true
+</a>
+
+**🤖 AI Recognition System**  
+Vehicle and face detection using Computer Vision and Deep Learning.
+
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white
+
+</td>
+
+<td width="50%" valign="top">
+
+https://github.com/MohamedReda2003/E-commerce-simple-website-with-Django
+https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=E-commerce-simple-website-with-Django&theme=tokyonight&hide_border=true
+</a>
+
+**🛒 E-Commerce Platform**  
+Full-stack online store built with Django.
+
+https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white
+https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+https://github.com/MohamedReda2003/Telegram-Bot-to-check-ENSA-Grades
+https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=Telegram-Bot-to-check-ENSA-Grades&theme=tokyonight&hide_border=true
+</a>
+
+**📚 ENSA Grades Bot**  
+Telegram bot that automates student grade checking.
+
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white
+
+</td>
+
+<td width="50%" valign="top">
+
+https://github.com/MohamedReda2003/Team-Draw-API
+https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=Team-Draw-API&theme=tokyonight&hide_border=true
+</a>
+
+**⚽ Team Draw API**  
+REST API for automated team generation and random draws.
+
+https://img.shields.io/badge/REST_API-009688?style=flat-square
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## 🦾 Notable Personal Projects
