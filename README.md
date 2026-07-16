@@ -137,17 +137,14 @@ Currently, I'm deepening my knowledge in **AI, control systems, and smart roboti
 <table>
 <tr>
 <td width="50%" valign="top">
-
-https://github.com/MohamedReda2003/cars-and-faces-recognition
-https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=cars-and-faces-recognition&theme=tokyonight&hide_border=true
-</a>
-
+<a href="https://github.com/MohamedReda2003/cars-and-faces-recognition
+https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=cars-and-faces-recognition&theme=tokyonight&hide_border=true">
 **🤖 AI Recognition System**  
 Vehicle and face detection using Computer Vision and Deep Learning.
 
 https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
 https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white
-
+</a>
 </td>
 
 <td width="50%" valign="top">
