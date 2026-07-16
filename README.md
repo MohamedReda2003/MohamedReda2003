@@ -138,7 +138,8 @@ Currently, I'm deepening my knowledge in **AI, control systems, and smart roboti
 <tr>
 
 <td width="50%" valign="top" align="center">
-<a href = "https://github.com/MohamedReda2003/cars-and-faces-recognition">
+<a href = "https://github.com/MohamedReda2003/cars-and-faces-recognition
+  https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=cars-and-faces-recognition&theme=tokyonight&hide_border=true">
 
 ### 🤖 AI Recognition System
 </a>
