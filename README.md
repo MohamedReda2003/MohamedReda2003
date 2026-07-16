@@ -141,8 +141,8 @@ Currently, I'm deepening my knowledge in **AI, control systems, and smart roboti
 https://github.com/MohamedReda2003/cars-and-faces-recognition
   https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=cars-and-faces-recognition&theme=tokyonight&hide_border=true
 </a>
+
 ### 🤖 AI Recognition System
-</a>
 Vehicle and face detection using Computer Vision and Deep Learning.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
