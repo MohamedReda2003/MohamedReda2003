@@ -136,8 +136,8 @@ Currently, I'm deepening my knowledge in **AI, control systems, and smart roboti
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center" href="https://github.com/MohamedReda2003/cars-and-faces-recognition
-  https://github-readme-stats.vercel.app/api/pin/?username=MohamedReda2003&repo=cars-and-faces-recognition&theme=tokyonight&hide_border=true">
+<a href = "https://github.com/MohamedReda2003/cars-and-faces-recognition">
+<td width="50%" valign="top" align="center">
 
 
 ### 🤖 AI Recognition System
@@ -148,7 +148,7 @@ https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoC
 https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
 
 </td>
-
+</a>
 <td width="50%" valign="top" align="center">
 
 https://github.com/MohamedReda2003/E-commerce-simple-website-with-Django
